@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesOnCloud", "FilesOnCloud\FilesOnCloud.csproj", "{699F03E5-EAE4-46D5-A74D-62A7B0DFA427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699F03E5-EAE4-46D5-A74D-62A7B0DFA427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699F03E5-EAE4-46D5-A74D-62A7B0DFA427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699F03E5-EAE4-46D5-A74D-62A7B0DFA427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699F03E5-EAE4-46D5-A74D-62A7B0DFA427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8486C4-CC5B-4EC5-A2B7-D5FC36F23E91}
+	EndGlobalSection
+EndGlobal
